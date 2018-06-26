@@ -2,7 +2,7 @@
 
 This repo is meant to give one an all a simple introduction to RNN's
 
-Click [here](https://www.google.com) for the tutorial on my Blog
+Click [here](https://dreamtechthefuture.wordpress.com/2018/06/26/rnns-for-noobies/) for the tutorial on my Blog
 
 ## Requirements
 ```
