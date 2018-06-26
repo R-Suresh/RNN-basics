@@ -6,7 +6,7 @@ Click [here](https://www.google.com) for the tutorial on my Blog
 
 ## Requirements
 ```
-1.Tensorflow
+1. Tensorflow
 2. Keras
 ```
 
