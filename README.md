@@ -1,6 +1,6 @@
 # RNN's for begginers
 
-This repo is meant to give one an all a simple introduction to RNN's
+This repo is meant to give one and all a simple introduction to RNN's
 
 Click [here](https://dreamtechthefuture.wordpress.com/2018/06/26/rnns-for-noobies/) for the tutorial on my Blog.<br>
 The Many to Many RNN ipynb file is a simple RNN model trained on the Penn Tree Bank (PTB) dataset.<br>
