@@ -23,4 +23,5 @@ Find sample trained models - <br>
 ## Running the code
 1.Execute ```addition_using_RNN.py``` to run the code for simple addition using RNN<br>
 2.Download and run the Many to Many RNN with jupyter<br>
+3.Download and run the Many to One RNN with jupyter<br>
 
